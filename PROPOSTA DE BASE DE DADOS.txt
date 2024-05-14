@@ -1,0 +1,25 @@
+Kaggle:
+
+https://www.kaggle.com/datasets/juanmerinobermejo/smartphones-price-dataset
+https://www.kaggle.com/datasets/jancsg/cybersecurity-suspicious-web-threat-interactions
+https://www.kaggle.com/datasets/alsaniipe/heart-disease
+
+Ipeadata:
+
+http://www.ipeadata.gov.br/Default.aspx
+
+regional -> comercio exterior, estoque de financias, finanças publicas, segurança publica
+social -> Desenvolvimento Humano, Assistencia Social
+
+WHO:
+
+https://apps.who.int/gho/data/node.home
+https://apps.who.int/gho/data/node.main.MENTALHEALTH?lang=en
+https://apps.who.int/gho/data/node.main.A824?lang=en
+https://apps.who.int/gho/data/node.main.504?lang=en
+
+Sugestão Minha:
+
+- Uma base de dados com as visualizações do youtube, conteudo e nivel de aprovação
+
+- Aprendizado pre-internet, pós-internet, pre-IA, pós-IA e estimativas(o parar de pensar dos humanos)
